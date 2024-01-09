@@ -1,0 +1,7 @@
+// style.scss
+@import './style2.scss';
+@import '../../../../foo.scss';
+
+h1 {
+  color: pink;
+}
